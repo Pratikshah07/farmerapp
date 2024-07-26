@@ -51,29 +51,32 @@
     <div class="container">
         <div class="box">
             <h2>Scheme 1</h2>
-            <a href="link-to-scheme-1-details.html">More Details</a>
+            <a href="https://rkvy.nic.in/">Rashtriya Krishi Vikas Yojna</a>
         </div>
         <div class="box">
             <h2>Scheme 2</h2>
-            <a href="link-to-scheme-2-details.html">More Details</a>
+            <a href="https://soilhealth.dac.gov.in/home">Soil Health Card</a>
         </div>
         <div class="box">
             <h2>Scheme 3</h2>
-            <a href="link-to-scheme-3-details.html">More Details</a>
+            <a href="https://pmfby.gov.in/">Pradhan Mantri Fasal BIMA Yojana </a>
         </div>
         <div class="box">
             <h2>Scheme 4</h2>
-            <a href="link-to-scheme-4-details.html">More Details</a>
+            <a href="https://agriinfra.dac.gov.in/">AgriInfra</a>
         </div>
         <div class="box">
             <h2>Scheme 5</h2>
-            <a href="link-to-scheme-5-details.html">More Details</a>
+            <a href="https://pmkisan.gov.in/">PM Kisan Samman Nidhi</a>
         </div>
         <div class="box">
             <h2>Scheme 6</h2>
-            <a href="link-to-scheme-5-details.html">More Details</a>
+            <a href="https://www.enam.gov.in/web/">National Agriculture Market</a>
         </div>
-        <!-- Add more boxes as needed -->
+        <div class="box">
+            <h2>Scheme 7</h2>
+            <a href="https://www.nfsm.gov.in/">National Food Security Mission</a>
+        </div>
     </div>
 
 </body>
